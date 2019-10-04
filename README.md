@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Docs/icon.png" width="136" alt="icon"><br>
+  <img src="https://raw.githubusercontent.com/PowerMobileWeb/NewsApp/master/Docs/screens.png" width="300" height="400"><br>
   Beam for Reddit<br>
   <p align="center">
     <a href="https://twitter.com/madePowermobile">
