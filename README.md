@@ -3,10 +3,10 @@
   Beam for Reddit<br>
   <p align="center">
     <a href="https://twitter.com/madePowermobile">
-      <img src="https://img.shields.io/badge/contact-madePowermobile-blue.svg?style=flat" alt="Contact">
+    <img src="https://img.shields.io/badge/contact-madePowermobile-blue.svg?style=flat" alt="Contact"> 
     </a>
     <a href="LICENSE.md">
-      <img src="https://img.shields.io/badge/license-GPL--2.0-red.svg?style=flat" alt="License: GPL v2.0">
+    <img src="https://img.shields.io/badge/license-GPL--2.0-red.svg?style=flat" alt="License: GPL v2.0"> 
     </a>
   </p>
 </h1>
@@ -16,9 +16,9 @@
 <br>
 <br>
 
-<p align="center">
+<!--<p align="center">
   <img src="Docs/screens.png" width="705" alt="Beam">
-</p>
+</p> -->
 
 <br>
 
