@@ -14,13 +14,13 @@
 <p align="center">An open source Reddit client for iOS.</p>
 
 <br>
-<br>
+
 
 <!--<p align="center">
   <img src="Docs/screens.png" width="705" alt="Beam">
 </p> -->
 
-<br>
+
 
 ## Introduction
 
